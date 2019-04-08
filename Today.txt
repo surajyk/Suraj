@@ -1,0 +1,36 @@
+
+INO360922 
+
+1. Typhoon PBI, dump Analysis, Update latest firmware N-1 version PTASK0015877, CHG1785752
+2. IMM RITM1360267
+3. Vaibhav SSL RITM1029312, cve-2015-0204, upgrade SSL TLS or disable rsa_export cipher
+4. 
+5. 
+6. 
+7. 
+
+Mirador..4th April..
+
+Task Update template: 
+
+•           Last step performed and results: Log Captured and shared with MS
+•           Current ongoing actions : 
+             Put server on maintenance mode 
+- Apply Hotfix KB4480969
+              - Export event log before activity 
+              - Update latest firmware version
+              - Confirm the firmware upgraded successfully 
+              
+•           Next step: Update latest firmware for other Hosts in cluster
+•           Dependency on Non – SIRUS Teams (yes/no): No
+
+
+
+
+Task Closure template :
+•           Problem Summary: 
+•           Business / Technical Impact : 
+•           Root Cause: 
+•           Action Taken: 
+•           Any Change / SRM raised to Resolve: 
+•           Current Situation:  
